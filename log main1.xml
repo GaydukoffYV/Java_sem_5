@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-01-15T20:20:14.268439300Z</date>
+  <millis>1673814014268</millis>
+  <nanos>439300</nanos>
+  <sequence>0</sequence>
+  <logger>main1</logger>
+  <level>INFO</level>
+  <class>main1</class>
+  <method>calculator</method>
+  <thread>1</thread>
+  <message>Calculator result: 2 + 4=6.0</message>
+</record>
+</log>
